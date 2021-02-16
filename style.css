@@ -45,24 +45,15 @@ h1,h2,h3,h4,h5 {
   color:#fff;
 }
 
+#gh {
+  color: #333;
+}
+#md {
+  color: #00ab6c;
+}
+#yt {
+  color: #ff0000;
+}
 #in {
   color:#0077B5;
-}
-#gr {
-  color: #8A5E2C;
-}
-#sp {
-  color: #1DB954;
-}
-#st {
-  color: #2A475E;
-}
-#im {
-  color: #F5C518;
-}
-#hd {
-  color: #C19F54;
-}
-#log {
-  color: #E4F9FA;
 }
